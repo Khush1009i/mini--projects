@@ -9,5 +9,4 @@ Projects view are below (just give it a try <b>):-
 | Pokedex       | [view](https://visionary-bombolone-c3b8f0.netlify.app/)   |
 | Quiz-site     | [view](https://rainbow-marshmallow-85507a.netlify.app/)   |
 | Netflix-navigation| [view](https://unique-sable-d3aa86.netlify.app/)      |
-<iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
 
