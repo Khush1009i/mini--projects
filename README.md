@@ -10,4 +10,4 @@ Projects view are below (just give it a try <b>):-
 | Quiz-site     | [view](https://rainbow-marshmallow-85507a.netlify.app/)   |
 | Netflix-navigation| [view](https://unique-sable-d3aa86.netlify.app/)      |
 | expand-card   | [view](https://legendary-shortbread-ece861.netlify.app/)  |
-
+| Hang-man Game | [view](https://keen-quokka-8f1b52.netlify.app/)           |
