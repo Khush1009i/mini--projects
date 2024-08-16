@@ -35,5 +35,4 @@ Projects view are below (just give it a try <b>):-
 |🐯Pokedex             |[code](https://github.com/Khush1009i/mini--projects/tree/main/pokedex)           |                   [view](https://visionary-bombolone-c3b8f0.netlify.app/) |
 |🪪Profile card        |[code](https://github.com/Khush1009i/mini--projects/tree/main/profile-card)      |                    [view](https://dapper-sundae-227be0.netlify.app/) 
 |Quizapp                |[code](https://github.com/Khush1009i/mini--projects/tree/main/quizapp)           |                  [view](https://rainbow-marshmallow-85507a.netlify.app/) 
-|📑Quote-Generator     |[code](https://github.com/Khush1009i/mini--projects/tree/main/quote-Gen )         |            
- [view](https://visionary-malasada-77e9d7.netlify.app/) 
+|📑Quote-Generator     |[code](https://github.com/Khush1009i/mini--projects/tree/main/quote-Gen )         |            [view](https://visionary-malasada-77e9d7.netlify.app/) 
