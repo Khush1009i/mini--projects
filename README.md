@@ -15,3 +15,4 @@ Projects view are below (just give it a try <b>):-
 | 🛹Hover-board   | [view](https://resplendent-kitsune-2b2a01.netlify.app/)   |
 | 🔏Password generator | [view](https://aquamarine-elf-603e9a.netlify.app/)   |
 | 🎮Keycodes(the game) | [view](https://joyful-crostata-81d07a.netlify.app/)  |
+| 📑Quote-Generator | [view](https://visionary-malasada-77e9d7.netlify.app/)  |
