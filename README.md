@@ -2,9 +2,9 @@
 
 Projects view are below (just give it a try <b>):-
   
-|💻Content        |🔗 Link                                                   |
-|  ---             |   ---                                                   |
-|🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |
+|💻Content        |🔗 Link                                                   |code|
+|  ---             |   ---                                                   |---|
+|🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |[code](https://github.com/Khush1009i/mini--projects/tree/cd5c569e20ad49279922208fd57271f85ccd930f/expanding%20cards)
 |🔢Auto-text      | [view](https://majestic-gumdrop-9a857d.netlify.app/)      |
 | 💱Exchange rate | [view](https://nimble-narwhal-6026c5.netlify.app/)        |
 | 🏣Feedback-UI   | [view](https://lambent-buttercream-5ebba3.netlify.app/)   |
