@@ -1,7 +1,9 @@
 Projects view are below (just give it a try <b>):- 
 
-|💻Content      |     🔗 Link                                                |
-| -------------    | ---                                                      |
+|💻Content        |🔗 Link                                                   |
+|---               |----                                                      |
+|🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |
+|🔢Auto-text      | [view](https://majestic-gumdrop-9a857d.netlify.app/)      |
 | 💱Exchange rate | [view](https://nimble-narwhal-6026c5.netlify.app/)        |
 | 🏣Feedback-UI   | [view](https://lambent-buttercream-5ebba3.netlify.app/)   |
 |💁 Form          | [view](https://stellular-pony-52fd34.netlify.app/)        |
