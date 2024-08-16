@@ -1,4 +1,4 @@
----
+<!--
 
 Projects view are below (just give it a try <b>):-
   
@@ -16,9 +16,29 @@ Projects view are below (just give it a try <b>):-
 | 📔Netflix-navigation| [view](https://unique-sable-d3aa86.netlify.app/)      |[code] |
 | 🎴Expand-card   | [view](https://legendary-shortbread-ece861.netlify.app/)  |[-code-](https://github.com/Khush1009i/mini--projects/tree/cd5c569e20ad49279922208fd57271f85ccd930f/expanding%20cards) |
 | 🧗‍♂️Hang-man Game | [view](https://keen-quokka-8f1b52.netlify.app/)           |[code] |
-| 🛹Hover-board   | [view](https://resplendent-kitsune-2b2a01.netlify.app/)   |[code](https://github.com/Khush1009i/mini--projects/tree/main/Hoverboard)|
-| 🔏Password generator | [view](https://aquamarine-elf-603e9a.netlify.app/)   |[code] |
-| 🎮Keycodes(the game) | [view](https://joyful-crostata-81d07a.netlify.app/)  |[code] |
-| 📑Quote-Generator | [view](https://visionary-malasada-77e9d7.netlify.app/)  |[code] |
+  |
+| | |[code] |
 
 ---
+
+|💻Content          |🔗 Link                                                   |👨‍💻code|
+|---                 |---                                                       |---                     |  
+|Ani                 |[code]( https://github.com/Khush1009i/mini--projects/tree/main/animation-countdown)|
+|Auto-text           |[code](https://github.com/Khush1009i/mini--projects/tree/main/auto-text)           |
+|Exchange rate       |[code](https://github.com/Khush1009i/mini--projects/tree/main/exchange-rate)       |
+|Expanding cards     |[code](https://github.com/Khush1009i/mini--projects/tree/main/expanding%20cards)   |
+|Feedback            |[code](https://github.com/Khush1009i/mini--projects/tree/main/feedback-UI)         |
+|Forms               |[code](https://github.com/Khush1009i/mini--projects/tree/main/form)                |
+|GitHub profile      |[code](https://github.com/Khush1009i/mini--projects/tree/main/github%20profiles)   |
+|Hangman             |[code](https://github.com/Khush1009i/mini--projects/tree/main/hangman)             |
+| 🛹Hover-board      |[code](https://github.com/Khush1009i/mini--projects/tree/main/Hoverboard)|[view](https://resplendent-kitsune-2b2a01.netlify.app/) |
+|🎮Keycodes(Game)   |[code](https://github.com/Khush1009i/mini--projects/tree/main/keycodes!)|[view](https://joyful-crostata-81d07a.netlify.app/)|
+|Mobile navigation   |[code]( https://github.com/Khush1009i/mini--projects/tree/main/mobile-navigation)  |
+|🔏Password generator |[code](https://github.com/Khush1009i/mini--projects/tree/main/password-generator)  | [view](https://aquamarine-elf-603e9a.netlify.app/)|
+|Pokedex             |[code](https://github.com/Khush1009i/mini--projects/tree/main/pokedex)             |
+|Profile card        |[code](https://github.com/Khush1009i/mini--projects/tree/main/profile-card)        |
+|Quizapp             |[code](https://github.com/Khush1009i/mini--projects/tree/main/quizapp)             |
+|📑Quote-Generator   |[code](https://github.com/Khush1009i/mini--projects/tree/main/quote-Gen )|[view](https://visionary-malasada-77e9d7.netlify.app/) 
+
+-->
+wait for a while!
