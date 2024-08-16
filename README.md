@@ -6,6 +6,7 @@ Projects view are below (just give it a try <b>):-
 | 🏣Feedback-UI   | [view](https://lambent-buttercream-5ebba3.netlify.app/)   |
 |💁 Form          | [view](https://stellular-pony-52fd34.netlify.app/)        |
 | 🧑‍💼Git Profile   | [view](https://glowing-croquembouch4492dc.netlify.app/)   |
+| 🧑‍💼Profile-card   | [view](https://dapper-sundae-227be0.netlify.app/)   |
 | 🐅Pokedex       | [view](https://visionary-bombolone-c3b8f0.netlify.app/)   |
 | ℹ️ Quiz-site     | [view](https://rainbow-marshmallow-85507a.netlify.app/)   |
 | 📔Netflix-navigation| [view](https://unique-sable-d3aa86.netlify.app/)      |
