@@ -2,7 +2,7 @@
 
 Projects view are below (just give it a try <b>):-
 
-|💻Content            |👨‍💻Code                                                 |🔗 Link |
+|💻Content            |👨‍💻Code                                                 |🔗Preview Link |
 |---                   |---                                                    |---                     |  
 |🔢Countdown           |[code]( https://github.com/Khush1009i/mini--projects/tree/main/animation-countdown)|            [view](https://lucky-florentine-900227.netlify.app/)|
 |🛺Auto-text           |[code](https://github.com/Khush1009i/mini--projects/tree/main/auto-text)|                       [view](https://majestic-gumdrop-9a857d.netlify.app/)  
