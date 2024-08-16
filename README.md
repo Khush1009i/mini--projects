@@ -1,7 +1,9 @@
-Projects view are below (just give it a try <b>):- 
+---
 
+Projects view are below (just give it a try <b>):-
+  
 |💻Content        |🔗 Link                                                   |
-|---               |----                                                      |
+|  ---             |   ---                                                   |
 |🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |
 |🔢Auto-text      | [view](https://majestic-gumdrop-9a857d.netlify.app/)      |
 | 💱Exchange rate | [view](https://nimble-narwhal-6026c5.netlify.app/)        |
@@ -18,3 +20,5 @@ Projects view are below (just give it a try <b>):-
 | 🔏Password generator | [view](https://aquamarine-elf-603e9a.netlify.app/)   |
 | 🎮Keycodes(the game) | [view](https://joyful-crostata-81d07a.netlify.app/)  |
 | 📑Quote-Generator | [view](https://visionary-malasada-77e9d7.netlify.app/)  |
+
+---
