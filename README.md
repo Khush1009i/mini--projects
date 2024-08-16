@@ -1,10 +1,10 @@
-<!--
+
 
 Projects view are below (just give it a try <b>):-
   
 |💻Content        |🔗 Link                                                   |code|
-|  ---             |   ---                                                   |---|
-|🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |--[code]-- |
+|  ---             |   ---                                                |---|
+|🔢Animated-countdown| [view](https://lucky-florentine-900227.netlify.app/)   |--[code]--po|
 |🔢Auto-text      | [view](https://majestic-gumdrop-9a857d.netlify.app/)      |[code] |
 | 💱Exchange rate | [view](https://nimble-narwhal-6026c5.netlify.app/)        |[code] |
 | 🏣Feedback-UI   | [view](https://lambent-buttercream-5ebba3.netlify.app/)   |[code] |
@@ -39,6 +39,3 @@ Projects view are below (just give it a try <b>):-
 |Profile card        |[code](https://github.com/Khush1009i/mini--projects/tree/main/profile-card)        |
 |Quizapp             |[code](https://github.com/Khush1009i/mini--projects/tree/main/quizapp)             |
 |📑Quote-Generator   |[code](https://github.com/Khush1009i/mini--projects/tree/main/quote-Gen )|[view](https://visionary-malasada-77e9d7.netlify.app/) 
-
--->
-wait for a while!
