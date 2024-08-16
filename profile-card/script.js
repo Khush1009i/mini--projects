@@ -17,7 +17,7 @@ function getData() {
   excerpt.innerHTML =
     'I am a learning Web Developer, working on myself to get a succefull career...!'
   profile_img.innerHTML =
-    '<img src="https://www.google.com/imgres?q=Profile%20picture%20boy%20cartoon&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fea%2Fc9%2Fa2%2Feac9a2ecbd6f37928da2073121bb32ec.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F961166745445509869%2F&docid=xEvbNCSxw_v5NM&tbnid=JrunKbH7jNu9sM&vet=12ahUKEwjV7LX6q-eHAxXES2cHHZYcBRAQM3oECGUQAA..i&w=736&h=1012&hcb=2&ved=2ahUKEwjV7LX6q-eHAxXES2cHHZYcBRAQM3oECGUQAA" alt="" />'
+    '<img src="khush.jpg" alt="k" />'
   name.innerHTML = 'Khush Soni'
   date.innerHTML = 'JUN 07, 2004'
 
