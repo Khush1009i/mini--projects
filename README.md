@@ -6,11 +6,13 @@
 |🛺Auto-text           |[code](https://github.com/Khush1009i/mini--projects/tree/main/auto-text)|                       [view](https://majestic-gumdrop-9a857d.netlify.app/)    | 
 | 💱Exchange rate      |[code](https://github.com/Khush1009i/mini--projects/tree/main/exchange-rate)    |                   [view](https://nimble-narwhal-6026c5.netlify.app/)      |
 |🎴Expanding cards     |[code](https://github.com/Khush1009i/mini--projects/tree/main/expanding%20cards)|               [view](https://legendary-shortbread-ece861.netlify.app/)|
+|🎴FAQ;s     |[code]()|               [view](https://moonlit-druid-d992ab.netlify.app/)|
 |🏣Feedback-UI         |[code](https://github.com/Khush1009i/mini--projects/tree/main/feedback-UI)      |                    [view](https://lambent-buttercream-5ebba3.netlify.app/) |
 |💁Form                |[code](https://github.com/Khush1009i/mini--projects/tree/main/form)             |                    [view](https://stellular-pony-52fd34.netlify.app/)      |
 |🧑‍💼Git Profile         |[code](https://github.com/Khush1009i/mini--projects/tree/main/github%20profiles)|               [view](https://glowing-croquembouch4492dc.netlify.app/) |
 |🐒Hangman             |[code](https://github.com/Khush1009i/mini--projects/tree/main/hangman)           |                   [view](https://keen-quokka-8f1b52.netlify.app/)         |
 | 🛹Hover-board        |[code](https://github.com/Khush1009i/mini--projects/tree/main/Hoverboard)        |                   [view](https://resplendent-kitsune-2b2a01.netlify.app/) |
+|😆Jokes       |[code](https://github.com/Khush1009i/mini--projects/tree/a0bf1946b216f448c3eec53772a15b105c213aac/jokes)|                                               [view](https://boisterous-salamander-3220ff.netlify.app/) |
 |🎮Keycodes(Game)      |[code](https://github.com/Khush1009i/mini--projects/tree/main/keycodes!)         |                   [view](https://joyful-crostata-81d07a.netlify.app/)     |
 |📱Navigation          |[code]( https://github.com/Khush1009i/mini--projects/tree/main/mobile-navigation)|              [view](https://unique-sable-d3aa86.netlify.app/)        |  
 |🔏Password generator  |[code](https://github.com/Khush1009i/mini--projects/tree/main/password-generator)|              [view](https://aquamarine-elf-603e9a.netlify.app/)      |
