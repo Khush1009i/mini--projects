@@ -22,6 +22,7 @@
 |📑Quote-Generator     |[code](https://github.com/Khush1009i/mini--projects/tree/main/quote-Gen )        |[view](https://visionary-malasada-77e9d7.netlify.app/)  |
 |🕰️Theme-clock     |[code](https://github.com/Khush1009i/mini--projects/tree/main/theme-clock )            |[view](https://rainbow-crostata-983adf.netlify.app/)    |
 |🖇️To-Do List          |[code](https://github.com/Khush1009i/mini--projects/tree/main/to-do%20list)      |[view](https://fanciful-bavarois-cfba54.netlify.app/)   |
+|🖇️To-Do List(2)       |[code](https://github.com/Khush1009i/mini--projects/tree/main/to-do(2)%20list)      |[view](https://enchanting-souffle-92d684.netlify.app/)   |
 
 ---
 
