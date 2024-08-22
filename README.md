@@ -1,5 +1,10 @@
-<h1>🙏🏻🙏🏻<b></b>Namastey Coders</h1></b>
-<h4><b>👋Codes preview are below :-</h4></b>
+<!--
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height=350px width=500px>
+</div>
+-->
+<h1><b><img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" height=60px width=60px>
+  Codes preview are below :-</h1></b>
 
 |#|💻Content             |👨‍💻 Code Files                                                                     |🔗Preview Link                                        |
 |---|---                    |---                                                                               |---                                                   |  
@@ -30,4 +35,8 @@
 
 
 
-<h1>Thanks for visit 😄 🙏🙏</h1>
+<div align="center">
+  <h1 font-size="10px">
+    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"height=50px width=50px>Thanks to Visit !</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</div>
